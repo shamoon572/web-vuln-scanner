@@ -1,3 +1,12 @@
+## 📸 Screenshots
+<img width="1361" height="687" alt="Demo Vulnerable App" src="https://github.com/user-attachments/assets/e87aac87-c2fb-4ea6-bb5a-cf88899b0624" />
+<img width="1339" height="649" alt="WebvulnScanner1" src="https://github.com/user-attachments/assets/bffb654b-054b-44ab-b709-df5be287eec7" />
+<img width="1345" height="652" alt="WebvulnScanner2" src="https://github.com/user-attachments/assets/662a8197-d46d-4c4b-8d53-76cd59d356f5" />
+<img width="1346" height="650" alt="WebvulnScanner3" src="https://github.com/user-attachments/assets/9f3491f7-12e2-4c82-8020-f25c834b6423" />
+<img width="1343" height="722" alt="TerminalReport" src="https://github.com/user-attachments/assets/a261587e-508a-496f-94c7-d39c4bb49d52" />
+
+
+
 # 🔍 WebVulnScanner v1.0
 
 > A production-grade, async Python web vulnerability scanner for bug bounty hunting, security research, and CTF/lab environments.
