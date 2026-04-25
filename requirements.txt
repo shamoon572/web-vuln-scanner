@@ -1,0 +1,20 @@
+# Web Vulnerability Scanner — Python dependencies
+# Install with: pip install -r requirements.txt
+
+# ── Async HTTP ─────────────────────────────────────────────────────────────────
+aiohttp>=3.9.0
+aiofiles>=23.2.1
+
+# ── HTML parsing ──────────────────────────────────────────────────────────────
+beautifulsoup4>=4.12.0
+lxml>=5.1.0           # faster HTML parser for BeautifulSoup
+
+# ── Demo target only (not needed for the scanner itself) ──────────────────────
+flask>=3.0.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0  # optional: load .env config
+
+# ── Dev / Testing (optional) ──────────────────────────────────────────────────
+# pytest>=8.0.0
+# pytest-asyncio>=0.23.0
